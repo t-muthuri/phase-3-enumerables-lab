@@ -1,0 +1,15 @@
+
+[1mFrom:[0m /home/sahara/SeedtoOak/code/Phase.03/phase-3-enumerables-lab/enumerables.rb:35 Object#spiciest_foods:
+
+    [1;34m26[0m: [32mdef[0m [1;34mspiciest_foods[0m(spicy_foods)
+    [1;34m27[0m:   [1;34m# your code here[0m
+    [1;34m28[0m:   spicy_foods.map {|heat| heat[[33m:heat_level[0m]}
+    [1;34m29[0m:   [1;34m# spicy_foods.map do |heat|[0m
+    [1;34m30[0m:   [1;34m# "#{heat[:heat_level]}"[0m
+    [1;34m31[0m:     [1;34m# if heat_lev >= 5[0m
+    [1;34m32[0m:     
+    [1;34m33[0m: 
+    [1;34m34[0m: 
+ => [1;34m35[0m:     binding.pry
+    [1;34m36[0m: [32mend[0m
+
